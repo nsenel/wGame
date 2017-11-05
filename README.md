@@ -1,3 +1,3 @@
 # wGame
-Simple animation game(Like picman)
+Animation game(Like picman)
 Have fun !!
